@@ -13,8 +13,10 @@ In the first phase, I will start by exploring and integrating the dataset into P
 ## 2. Discovering Sales Trends
 
 Next, after loading the cleaned data into Power BI, I will continue building a common data model, analyzing the manufacturer's product growth, and comparing my manufacturer against competitors across multiple geographies.
+![image](https://github.com/user-attachments/assets/d550a21b-0803-4c23-9c00-614bc92aae63)
 
 ## 3. Creating a Data-Driven Story
 
 In this final phase, I will enhance my Power BI report by making it more dynamic and interactive using images and adding navigations. I will also leverage advanced features and visuals to present the data in a compelling story format, allowing end users to make informed decisions.
 
+![image](https://github.com/user-attachments/assets/9a893b34-cb3a-4f90-8cc8-c01aee90b0b3)
